@@ -1,4 +1,4 @@
-# paperQA
+# 🤖 paperQA : AI-Powered Chatbot for Scientific Papers 📚
 an interactive chatbot for understanding scientific papers and chatting with it. 
 
 # Branching Convention
